@@ -53,7 +53,7 @@ dann bei ``/home/Minecraft/Lobby/`` die ``startSpigot.sh`` hochladen!
 
 ### WinSCP
 *Ich denke mal das die für* __***x64 & x32***__ *verfügbar sein wird!*
-<br>[_**WinSCP für x64**_](https://winscp.net/downloads.php "WinSCP hier für die x64 & x32 Downloaden!")
+<br>[_**WinSCP für x64**_](https://winscp.net/download/WinSCP-5.15.9-Setup.exe "WinSCP hier für die x64 & x32 Downloaden!")
 
 ### FTP Client
 <br>[_**FTP für x64**_](https://dl4.cdn.filezilla-project.org/client/FileZilla_3.46.3_win64-setup.exe?h=AyHjXFMbBd0yn3lVyK7Srg&x=1577704964 "FileZilla hier für die x64 Downloaden!")
