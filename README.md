@@ -2,7 +2,7 @@
 ### Hier zeige ich wie man einen BungeeCord Server ganz einfach für Debian 9 installiert :D
 
 
-``BungeeCord.jar`` von __**[md-5.net](https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar "BungeeCord hier Downloaden!")**__
+``BungeeCord.jar`` von [__*md-5.net*__](https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar "BungeeCord hier Downloaden!")
 
 ``Spigot.jar`` von [__*GetBukkit*__](https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar "Spigot 1.8.8 hier Downloaden!")
 
