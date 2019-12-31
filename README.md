@@ -38,7 +38,7 @@ danach wieder zum ``/home/Minecraft/`` Ordner navigieren!
 dann bei ``/home/Minecraft/Lobby/`` die ``startSpigot.sh`` hochladen!
 
 <br><br>
-[__**startSpigot.sh**__](https://workupload.com/file/3gUtTvEn "startSpigot.sh hier Downloaden!")
+[__*startSpigot.sh*__](https://workupload.com/file/3gUtTvEn "startSpigot.sh hier Downloaden!")
 <br>*Passwort:* ``spigot``
 
 
