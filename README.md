@@ -52,7 +52,7 @@ dann bei ``/home/Minecraft/Lobby/`` die ``startSpigot.sh`` hochladen!
 [*Putty für x32*](https://the.earth.li/~sgtatham/putty/latest/w32/putty-0.73-installer.msi "Putty hier für x32 Downloaden!")
 
 ### WinSCP
-*Ich denke mal das die für* __***x64 & x32***__ *verfügbar sein wird!*
+*Ich denke mal das die für* __*x64 & x32*__ *verfügbar sein wird!*
 <br>[_**WinSCP für x64**_](https://winscp.net/download/WinSCP-5.15.9-Setup.exe "WinSCP hier für die x64 & x32 Downloaden!")
 
 ### FTP Client
