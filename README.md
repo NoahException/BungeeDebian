@@ -4,7 +4,7 @@
 
 ``BungeeCord.jar`` von __**[md-5.net](https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar "BungeeCord hier Downloaden!")**__
 
-``Spigot.jar`` von __**[GetBukkit](https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar "Spigot 1.8.8 hier Downloaden!")**__
+``Spigot.jar`` von [__*GetBukkit*__](https://cdn.getbukkit.org/spigot/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar "Spigot 1.8.8 hier Downloaden!")
 
 dann (**falls vorhanden**) auf dem (S)FTP bzw. **vServer** anmelden!
 
@@ -29,7 +29,7 @@ dann bei ``/home/Minecraft/Bungeecord/`` die ``startBungeeCord.sh`` hochladen!
 
 und dann wenn ihr mit Putty eingeloggt seit: ``chmod 777 startBungeeCord.sh``
 
-[__**startBungeeCord.sh**__](https://workupload.com/file/U9KuZCsX "startBungeeCord.sh hier Downloaden!")
+[__*startBungeeCord.sh*__](https://workupload.com/file/U9KuZCsX "startBungeeCord.sh hier Downloaden!")
 <br>*Passwort:* ``bungee``
 
 <br><br>
@@ -56,5 +56,5 @@ dann bei ``/home/Minecraft/Lobby/`` die ``startSpigot.sh`` hochladen!
 <br>[_**WinSCP für x64**_](https://winscp.net/download/WinSCP-5.15.9-Setup.exe "WinSCP hier für die x64 & x32 Downloaden!")
 
 ### FTP Client
-<br>[_**FTP für x64**_](https://dl4.cdn.filezilla-project.org/client/FileZilla_3.46.3_win64-setup.exe?h=AyHjXFMbBd0yn3lVyK7Srg&x=1577704964 "FileZilla hier für die x64 Downloaden!")
+<br>[_**FileZilla für x64**_](https://dl4.cdn.filezilla-project.org/client/FileZilla_3.46.3_win64-setup.exe?h=AyHjXFMbBd0yn3lVyK7Srg&x=1577704964 "FileZilla hier für die x64 Downloaden!")
 <br>[_**FileZilla für x32**_](https://dl4.cdn.filezilla-project.org/client/FileZilla_3.46.3_win32-setup.exe?h=AiH3P_5I3NthQ9c3A5wIjw&x=1577704964 "FileZilla hier für die x32 Downloaden!")
